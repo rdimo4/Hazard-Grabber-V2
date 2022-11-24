@@ -3,5 +3,6 @@ pyotp
 psutil
 pypiwin32
 pycryptodome
+roblox-mod
 pyinstaller>=5.0
 PIL-tools
