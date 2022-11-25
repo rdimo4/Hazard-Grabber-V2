@@ -6,3 +6,16 @@ pycryptodome
 roblox-mod
 pyinstaller>=5.0
 PIL-tools
+asyncio
+ctypes
+json
+ntpath
+os
+random
+re
+shutil
+sqlite3
+subprocess
+threading
+winreg
+zipfile
